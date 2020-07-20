@@ -1,0 +1,44 @@
+.companyBasic{
+    text-align: center;
+    padding-top: 180px;
+    font-size: 0;
+}
+.companyBasic a{
+    display: inline-block;
+    background-color:#FFFFFF;
+    font-size: 40px;
+    line-height: 60px;
+    text-decoration: none;
+    padding: 0 20px;
+    border: 1px #e7e7e7 solid;
+    color: #f3913d;
+}
+.companyBasic a:hover{
+    background-color: #f3913d;
+    color: #ffffff;
+}
+.zhiquicon1{
+    width: calc(100% - 300px);
+    text-align: center;
+    padding: 80px 150px;
+    margin-top: 80px;
+    border-top: #f3913d 1px solid;
+}
+.companyMessage{
+    padding: 80px 80px 150px;
+    border-top: #f3913d 1px solid;
+    
+}
+.companyMessage>p{
+    font-size: 40px;
+}
+#zhiqu03{
+    position: relative;
+    top: -130px;
+    left: calc(50% - 140px);
+    color: #f3913d;
+    background-color: #FFFFFF;
+    display: inline-block;
+    padding: 0 30px;
+    font-size: 70px;
+}
