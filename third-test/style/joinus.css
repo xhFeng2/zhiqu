@@ -1,0 +1,100 @@
+.body{
+    text-align: center;
+}
+.joinPicture{
+    margin-top: 116px;
+}
+.jianli{
+    font-size: 48px;
+    color: #000;
+    text-align: center;
+    margin-top: 100px;
+}
+.whichCity{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 0;
+}
+.whichCity>a{
+    padding: 0 60px;
+    border: 1px #333333 solid;
+    display: inline-block;
+    font-size: 40px;
+    text-decoration: none;
+    color: #000;
+}
+.whichCity>a:hover{
+    background-color: #2aad6f;
+}
+.jobs{
+    display: flex;
+    padding-top: 80px;
+    justify-content: center;
+}
+.jobChoose{
+    width: 210px;
+    font-size: 0;
+    padding-bottom: 300px;
+}
+.allJob{
+    display: flex;
+    width: 200px;
+    border-right: #2aad6f 1px solid;
+    padding-bottom: 40px;
+}
+.allJob1{
+    width: 200px;
+    font-size: 40px;
+    display: inline-block;
+    line-height: 60px;
+    text-align: right;
+    background-color:#ffffff;
+}
+.allJob2{
+    width: 0;
+    height: 0;
+    border-top: 30px transparent solid;
+    border-left: 20px #ffffff solid;
+    border-bottom: 30px transparent solid;
+    display: inline-block;
+}
+.circle1{
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-color: #2aad6f;
+    border-radius: 50%;
+    position: relative;
+    right: -9px;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle2{
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: relative;
+}
+.allJob:hover .allJob1{
+    background-color: #2aad6f;
+    color: #ffffff;
+}
+.allJob:hover .allJob2{
+    border-left: 20px #2aad6f solid;
+}
+.allJob:hover .circle2{
+    background-color: #2aad6f;
+}
+.jobMessage{
+    font-size: 0;
+}
+.jobMessage p{
+    font-size: 35px;
+    padding: 0 20px;
+    display: inline-block;
+    background-color: #2aad6f;
+}

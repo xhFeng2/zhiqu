@@ -1,0 +1,57 @@
+.bottomN{
+    height: 100px;
+    padding: 80px 200px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+.productCommunicat{
+    height: 100px;
+    width: 300px;
+}
+.productCommunicat>p:nth-child(1){
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.productCommunicat>a{
+    display: block;
+    text-decoration: none;
+    color: #000;
+}
+.productCommunicat>p:nth-child(2){
+    margin-top: 30px;
+}
+.onlineService{
+    height: 100px;
+}
+.onlineService>p{
+    line-height: 30px;
+}
+.onlineService>img{
+    margin-right: 40px;
+}
+.onlineservice1{
+    display: block;
+    background-color: #fb9336;
+    line-height: 60px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+}
+.companyAddress{
+    height: 100px;
+    background-color: #f1f1f1;
+    text-align: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.companyAddress>p{
+    margin-right: 50px;
+}

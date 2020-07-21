@@ -1,0 +1,44 @@
+.gamePhone{
+    border-top: 1px #000000 solid;
+    margin-top: 116px;
+    display: flex;
+    padding-top: 80px;
+}
+.dataMonth{
+    margin-left: 30px;
+    border-top: 3px #ee8c34 solid;
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px;
+}
+.contect1{
+    padding: 0 50px;
+    font-size: 26px;
+}
+.contect1>p:nth-child(1){
+    font-size: 70px;
+    margin-bottom: 80px;
+}
+.contect1>p:nth-child(6){
+    width: 100%;
+    height: auto;
+}
+.contect1>a{
+    text-decoration: none;
+    color: #ee8c34;
+    font-size: 14px;
+}
+.gamesConsole{
+    display: flex;
+    margin: 80px 20px;
+    padding: 80px 0;
+    border-top: #000000 1px dashed;
+    border-bottom: #000000 1px dashed;
+    margin-bottom: 30px;
+}
+.gamesConsole>p:nth-child(1){
+    margin-bottom: 80px;
+}
+.gamesConsole a{
+    color: #000;
+}

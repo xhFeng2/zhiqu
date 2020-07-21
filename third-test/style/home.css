@@ -1,0 +1,181 @@
+.body p{
+    overflow: auto;
+    text-align: center;
+}
+.zhiquNet{
+    background-image: url(../img/top1.jpg);
+    margin-top: 126px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 820px;
+    padding-top: 92px;
+    overflow: hidden;
+}
+.growFuture{
+    height: 144px;
+    border-bottom: #fff 1px solid;
+    border-top: #fff 1px solid;
+    margin-top: 200px;
+    display: inline-block;
+}
+.zhihuiGrow{
+    font-size: 60px;
+    color: #fff;
+}
+.engSmart{
+    font-size: 30px;
+    color: #fff;
+    font-family: serif;
+    text-transform: uppercase;
+}
+.smartNet{
+    height: 50px;
+    font-size: 35px;
+    padding: 0 30px;
+    font-weight: bold;
+    color: #fff;
+    border: 3px #fff solid;
+    display: inline-block;
+    line-height: 50px;
+    letter-spacing: 6px;
+    margin-top: 84px;
+}
+.findWorld{
+    font-size: 60px;
+    text-align: center;
+}
+.provideService{
+    text-align: center;
+    font-size: 30px;
+}
+.kindofproduct{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.babyItems{
+    margin-top: 60px;
+    margin-left: 72px;
+}
+.babyGuard{
+    height: 467px;
+    text-align: center;
+    position: relative;
+}
+.babyGuard1{
+    width: 230px;
+    height: 60px;
+    display: block;
+    position: relative;
+    background-color: #2aad6f;
+    left: calc(50% - 115px);
+    bottom: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+.inHigh{
+    height: 22px;
+}
+.babyGuard1 a{
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+    bottom: 0;
+    left: calc(50% - 80px);
+    text-align: center;
+}
+.babyGuard1:hover{
+    background-color: #ffcb5b;
+}
+.worthTeam{
+    font-size: 60px;
+}
+.joinzhiqu{
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.companyPictures{
+    padding: 80px 140px 0 140px;
+    display: flex;
+    align-items: stretch;
+}
+.companyPictures div{
+    flex-grow: 1;
+    height: auto;
+}
+.companyPictures img{
+    width: 100%;
+    height: auto;
+}
+.companyPictures1{
+    padding: 0 140px 0 140px;
+    display: flex;
+}
+.companyPictures1 div{
+    flex-grow: 1;
+    height: auto;
+}
+.companyPictures1 img{
+    width: 100%;
+    height: auto;
+}
+.bottomNav{
+    padding: 60px 0 0 80px;
+    display: flex;
+}
+.bottomNav>div{
+    flex-grow: 1;
+}
+.bottomNav img{
+    width: 100%;
+    height: auto;
+}
+.relationUs{
+    height: 180px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding: 0 90px 0 90px ;
+}
+.relationUs p{
+    display: inline-block;
+    font-size: 20px;
+}
+.attentionUs{
+    display: flex;
+    align-items: center;
+}
+.attentionUs img{
+    height: 68px;
+    width: auto;
+    margin-left: 10px;
+}
+.customService{
+    align-items: center;
+    width: 300px;
+    background-image: url(../img/kf.jpg);
+    background-repeat: no-repeat;
+    background-size:76px 76px ;
+    padding-left: 90px;
+}
+
+.customService>p:nth-child(1){
+    color: #65a177;
+    font-size: 32px;
+}
+.phoneNumber{
+    align-items: center;
+    height: 80px;
+    width: 160px;
+    background-image: url(../img/phone.jpg);
+    background-repeat: no-repeat;
+    background-size:76px 76px ;
+    padding-left: 90px;
+}
+.phoneNumber p{
+    display: block;
+    font-size: 22px;
+    font-weight: bold;
+}

@@ -1,0 +1,26 @@
+.gamePhone{
+    border-top: 1px #000000 solid;
+    margin-top: 116px;
+    display: flex;
+    padding-top: 80px;
+    margin-bottom: 400px;
+}
+.dataMonth{
+    margin-left: 30px;
+    border-top: 3px #ee8c34 solid;
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px;
+}
+.contect1{
+    padding: 0 50px;
+    font-size: 26px;
+}
+.contect1>p:nth-child(1){
+    font-size: 70px;
+    margin-bottom: 80px;
+}
+.contect1>p:nth-child(6){
+    width: 100%;
+    height: auto;
+}
